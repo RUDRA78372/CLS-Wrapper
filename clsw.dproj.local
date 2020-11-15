@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020-11-12 09:05:05.000.347,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\CLS.dproj</Transaction>
+    <Transaction>2020-11-12 09:05:33.000.987,C:\Users\Rudra\Documents\Embarcadero\Studio\Projects\CLS.dproj=D:\Coding\Test Projects\CLS-Wrapper\CLS.dproj</Transaction>
+    <Transaction>2020-11-12 09:05:45.000.014,D:\Coding\Test Projects\CLS-Wrapper\CLS.dproj=D:\Coding\Test Projects\CLS-Wrapper\clsw.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
