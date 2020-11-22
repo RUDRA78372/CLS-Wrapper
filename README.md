@@ -1,6 +1,6 @@
 # CLS-Wrapper
 
-A wrapper for cls libraries to be used as stdio/fio purpose. If you have a cls based (de)compressor and want to use that with file/std io but not using freearc, you can use this.
+A wrapper/host for cls libraries to be used as stdio/fio purpose. If you have a cls based (de)compressor and want to use that with file/std io but not using freearc, you can use this.
 In order to use cls with this, cls-xxx.dll must be renamed to arc-xxx.dll to avoid conflicts with freearc.
 
 ## Usage:
@@ -35,3 +35,6 @@ header = 0
 packcmd = clsw.exe c:diskspan 100mb:512mb - - <stdin> <stdout>
   
 unpackcmd = clsw.exe d:diskspan - - <stdin> <stdout>
+
+
+###### The program is basically a translation of C_CLS.cpp
